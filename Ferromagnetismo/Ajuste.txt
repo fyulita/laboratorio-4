@@ -1,0 +1,8 @@
+Brem = a * abs((Tc - T)) ^ gamma, values = (Tc, gamma, a)
+
+Data_1: values = (2.53019133e+02, 7.25002389e-01, 2.02231890e-02)
+	se midio desde 15.
+Data_2: values = (2.57822951e+02, 5.08817942e-01, 5.00000000e-02)
+	se midio hasta 125
+Data_3: values = (2.85376936e+02, 5.80761203e-01, 3.95650831e-02)
+	se midio desde 15 a 150.
